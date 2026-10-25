@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rupas+%F0%9F%91%8B;Full-Stack+Developer;Building+Web+%26+Mobile+Applications;Turning+Ideas+Into+Working+Products" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=0D1C42&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rupas+%F0%9F%91%8B;Full-Stack+Developer;Building+Web+%26+Mobile+Applications;Turning+Ideas+Into+Working+Products" alt="Animated introduction" />
 
 <br/><br/>
 
@@ -199,7 +199,7 @@ An online quiz system for an interactive assessment experience.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+useful+things.;Learning+something+new+every+day.;One+project+at+a+time." alt="Developer motto"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=0D1C42&center=true&vCenter=true&width=600&lines=Building+useful+things.;Learning+something+new+every+day.;One+project+at+a+time." alt="Developer motto"/>
 
 <br/><br/>
 
