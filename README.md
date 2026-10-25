@@ -3,37 +3,33 @@
 
 <div align="center">
 
-<img src="rupas-github-banner.png" width="100%" alt="Rupas — Full-Stack Developer" />
+<img src="./rupas-github-banner.png" width="100%" alt="Rupas — Full-Stack Developer" />
 
-<br/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rupas+%F0%9F%91%8B;Full-Stack+Developer;Building+Web+%26+Mobile+Applications;Turning+Ideas+Into+Working+Products" alt="Animated introduction" />
+
+<br/><br/>
 
 <a href="https://github.com/Rupas01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rupas+%F0%9F%91%8B;Full-Stack+Developer;Building+Web+%26+Mobile+Applications;Turning+Ideas+Into+Working+Products" alt="Typing introduction" />
+  <img src="https://img.shields.io/badge/GitHub-Rupas01-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<p>
-  <a href="https://github.com/Rupas01">
-    <img src="https://img.shields.io/badge/GitHub-Rupas01-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-
-## 👨‍💻 About Me
+## 👨🏻‍💻 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### Hey there! 👋
 
@@ -43,11 +39,11 @@ I'm a Computer Science graduate interested in building useful software, modern w
 - 💻 Interested in full-stack development
 - ⚙️ Building applications with React and Node.js
 - 🗄️ Working with SQL and NoSQL databases
-- 🌱 Continuously learning and improving
-- 🎯 Focused on writing clean, maintainable code
+- 🎨 Interested in modern UI design
+- 🌱 Always learning and improving
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 ### `developer.js`
 
@@ -58,11 +54,7 @@ const rupas = {
     "Web Development",
     "Mobile Apps",
     "Backend Systems",
-    "UI/UX"
-  ],
-  currentlyLearning: [
-    "DSA",
-    "System Design"
+    "UI Design"
   ],
   mindset: "Build. Learn. Improve."
 };
@@ -76,37 +68,33 @@ console.log("Let's build something!");
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <b>Languages</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,html,css" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,html,css&theme=dark" alt="JavaScript, Python, Java, C++, HTML and CSS"/>
 </p>
 
 <p align="center">
   <b>Frontend & Mobile</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,vite,tailwind" alt="Frontend and mobile technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite and Tailwind CSS"/>
 </p>
 
 <p align="center">
   <b>Backend & Databases</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB and MySQL"/>
 </p>
 
 <p align="center">
-  <b>Tools & Platforms</b>
+  <b>Tools</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub and Postman"/>
 </p>
 
 ---
-
-<!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
 
@@ -116,41 +104,22 @@ console.log("Let's build something!");
 
 ### 📚 EduBridge
 
-A cross-platform social learning application inspired by online learning platforms and communities.
+A cross-platform social learning application.
 
 **Highlights**
 - JWT-based authentication
 - User profile management
-- Media uploads using Cloudinary
+- Cloudinary media uploads
 - MongoDB Atlas integration
 
-**Built with**
+**Technologies**
 
-`React Native` `Node.js` `MongoDB`
+`React Native` · `Node.js` · `MongoDB Atlas` · `Cloudinary`
+
+<br/>
 
 <a href="https://github.com/Rupas01/EduBridge">
-  <img src="https://img.shields.io/badge/View_Repository-0B1220?style=for-the-badge&logo=github" alt="EduBridge repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-
-### 🧠 Quizzer
-
-An interactive quiz management system designed to make quizzes easier to create and participate in.
-
-**Highlights**
-- Quiz management
-- Interactive quiz experience
-- Database-backed application
-
-**Built with**
-
-`JavaScript` `Node.js` `MySQL`
-
-<a href="https://github.com/Rupas01/quizzer">
-  <img src="https://img.shields.io/badge/View_Repository-0B1220?style=for-the-badge&logo=github" alt="Quizzer repository"/>
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View EduBridge repository"/>
 </a>
 
 </td>
@@ -158,43 +127,68 @@ An interactive quiz management system designed to make quizzes easier to create 
 
 ### 🏥 Medical Supply Management
 
-A web-based system for managing medical supplies and inventory workflows.
+A web application for managing medical supplies and inventory workflows.
 
 **Highlights**
-- Role-based access
-- Inventory management
-- Customer and supplier workflows
+- Medical supply management
+- Inventory-related workflows
+- Database-backed application
 
-### 🎨 Prem Studios Portfolio
+**Technologies**
 
-A modern portfolio website for a creative editing and motion-graphics business.
+`Node.js` · `Express.js` · `MySQL`
 
-**Highlights**
-- Responsive layouts
-- Modern visual presentation
-- Reusable frontend components
-- Animated user experiences
+<br/>
 
-**Built with**
-
-`React` `Tailwind CSS` `Vite`
-
-<a href="https://github.com/Rupas01/portfolio-PremStudios">
-  <img src="https://img.shields.io/badge/View_Repository-0B1220?style=for-the-badge&logo=github" alt="Prem Studios repository"/>
+<a href="https://github.com/Rupas01/medical-supply-management-system">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View Medical Supply Management repository"/>
 </a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
+### 🧠 Quizzer
 
-**Built with**
+An interactive quiz application.
 
-`Node.js` `Express.js` `MySQL`
+**Highlights**
+- Quiz interface and functionality
+- Question and answer workflows
+- Interactive user experience
 
-<a href="https://github.com/Rupas01/medical-supply-management-system">
-  <img src="https://img.shields.io/badge/View_Repository-0B1220?style=for-the-badge&logo=github" alt="Medical supply management repository"/>
+**Technologies**
+
+`JavaScript` · `Node.js` · `MySQL`
+
+<br/>
+
+<a href="https://github.com/Rupas01/quizzer">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View Quizzer repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Online Quiz
+
+An online quiz system for an interactive assessment experience.
+
+**Highlights**
+- Quiz-based application
+- Interactive question workflows
+- Web application development
+
+**Technologies**
+
+`HTML` · `CSS` · `JavaScript` · `Node.js` · `MySQL`
+
+<br/>
+
+<a href="https://github.com/Rupas01/onlineQuiz">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View Online Quiz repository"/>
 </a>
 
 </td>
@@ -203,50 +197,16 @@ A modern portfolio website for a creative editing and motion-graphics business.
 
 ---
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<a href="https://github.com/Rupas01">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rupas01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/Rupas01">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupas01&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Most used programming languages"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+useful+things.;Learning+something+new+every+day.;One+project+at+a+time." alt="Developer motto"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupas01&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupas01&bg_color=020617&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-### 💡 My Developer Philosophy
-
-<i>Building, learning, and shipping — one project at a time.</i>
+<i>Building, learning, and shipping — one project at a time. 🚀</i>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,100:020617&height=100&section=footer" width="100%" alt="Blue wave footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123D68,100:071426&height=100&section=footer" width="100%" alt="Blue wave footer"/>
 
 </div>
