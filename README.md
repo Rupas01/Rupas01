@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0B1F3A,100:075985&height=200&section=header&text=RUPAS&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20BUILD%20%7C%20LEARN%20%7C%20IMPROVE&descSize=14&descAlignY=65&animation=fadeIn" width="100%" alt="Rupas — Full-Stack Developer" />
+<img src="rupas-github-banner.png" width="100%" alt="Rupas — Full-Stack Developer" />
 
 <br/>
 
