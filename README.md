@@ -135,28 +135,6 @@ A cross-platform social learning application inspired by online learning platfor
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Prem Studios Portfolio
-
-A modern portfolio website for a creative editing and motion-graphics business.
-
-**Highlights**
-- Responsive layouts
-- Modern visual presentation
-- Reusable frontend components
-- Animated user experiences
-
-**Built with**
-
-`React` `Tailwind CSS` `Vite`
-
-<a href="https://github.com/Rupas01/portfolio-PremStudios">
-  <img src="https://img.shields.io/badge/View_Repository-0B1220?style=for-the-badge&logo=github" alt="Prem Studios repository"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🧠 Quizzer
 
@@ -186,6 +164,30 @@ A web-based system for managing medical supplies and inventory workflows.
 - Role-based access
 - Inventory management
 - Customer and supplier workflows
+
+### 🎨 Prem Studios Portfolio
+
+A modern portfolio website for a creative editing and motion-graphics business.
+
+**Highlights**
+- Responsive layouts
+- Modern visual presentation
+- Reusable frontend components
+- Animated user experiences
+
+**Built with**
+
+`React` `Tailwind CSS` `Vite`
+
+<a href="https://github.com/Rupas01/portfolio-PremStudios">
+  <img src="https://img.shields.io/badge/View_Repository-0B1220?style=for-the-badge&logo=github" alt="Prem Studios repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 
 **Built with**
 
