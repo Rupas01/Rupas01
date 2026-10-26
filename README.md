@@ -14,10 +14,10 @@
 <a href="https://github.com/Rupas01">
   <img src="https://img.shields.io/badge/GitHub-Rupas01-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/rupas50">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="#">
   <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
