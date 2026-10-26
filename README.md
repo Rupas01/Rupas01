@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/rupas50/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://premstudios.online" target="_blank" rel="noopener noreferrer">
+<a href="[https://premstudios.online](https://rupas-portfolio.netlify.app/)" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
