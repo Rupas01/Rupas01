@@ -11,15 +11,17 @@
 
 <br/><br/>
 
-<a href="https://github.com/Rupas01">
+
+<a href="https://github.com/Rupas01" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-Rupas01-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="www.linkedin.com/in/rupas50" target="blank">
+<a href="https://www.linkedin.com/in/rupas50/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="#">
+<a href="https://premstudios.online" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
+
 
 </div>
 
